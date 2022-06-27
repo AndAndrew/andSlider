@@ -1,0 +1,9 @@
+.and-slider {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.and-slider .slide-img {
+    max-width: 80%;
+}
